@@ -1,1 +1,1 @@
-"# My New NBA Reminder Repository to what games are coming up" 
+"# My New NBA Reminder Script/App Repository to let me know what games are coming up" 
